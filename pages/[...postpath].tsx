@@ -1,4 +1,4 @@
-import React from 'react';
+theimport React from 'react';
 import Head from 'next/head';
 import { GetServerSideProps } from 'next';
 import { GraphQLClient, gql } from 'graphql-request';
